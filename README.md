@@ -5,7 +5,7 @@ The dataset used is mnist dataset.<br>
 1. Clone and download the project<br>
 ```git clone https://github.com/jay24rajput/Mnist-Digit-Recognision.git``` <br>
 2. Install the dependencies <br>
-```pip install -r requirements.txt --user```
+```pip3 install -r requirements.txt --user```
 3. Run the python file <br>
 ```python3 Digit_Recognision.py``` 
 ## Notes
