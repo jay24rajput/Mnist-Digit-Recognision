@@ -11,7 +11,7 @@ The dataset used is mnist dataset.<br>
 ## Notes
 If you are running the program on CPU then make the following changes:<br>
 **line 3**<br>
-```from tensorflow.keras.layers import Dense, Dropout,CuDNNLSTM``` <br>
+```from tensorflow.keras.layers import Dense, Dropout,LSTM``` <br>
 **line 14**<br>
 ```model.add(LSTM(128,input_shape=(x_train.shape[1:]),activation='relu',return_sequences=True))``` <br>
 **line 17** <br>
