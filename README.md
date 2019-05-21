@@ -1,6 +1,6 @@
 # Mnist-Digit-Recognision<br>
 This is a sample implementation of RNN(Recurrent Neural Networks) using LSTM layer.<br>
-The dataset used is mnist dataset.<br>
+The dataset used is [mnist dataset](http://yann.lecun.com/exdb/mnist/).<br>
 ## How to run
 1. Clone and download the project<br>
 ```git clone https://github.com/jay24rajput/Mnist-Digit-Recognision.git``` <br>
